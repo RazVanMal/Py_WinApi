@@ -1,2 +1,2 @@
-# Py_WinApi
-Win api Python hacks
+# cppWinApi
+Learning to hack windows API
